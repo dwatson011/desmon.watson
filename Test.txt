@@ -1,1 +1,2 @@
 Change 1 on the master branch
+Test.txt Change 2 on MyBranch
